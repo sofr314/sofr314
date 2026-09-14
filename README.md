@@ -22,4 +22,4 @@ I'm an ABS Research Analyst, and I've been learning to code for 2 years.
 
 <b>My GitHub Stats</b>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sofr314&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sofr314&show_icons=true&theme=dark)
