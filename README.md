@@ -22,6 +22,4 @@ I'm an ABS Research Analyst, and I've been learning to code for 2 years.
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com">
-  <img src="https://githubcard.com" alt="sofr314's GitHub stats" />
-</a>
+![Your GitHub Stats](https://vercel.app)
