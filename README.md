@@ -22,4 +22,6 @@ I'm an ABS Research Analyst, and I've been learning to code for 2 years.
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com"><img src="https://vercel.app" alt="sofr314's Github stats" /></a>
+<a href="https://github.com">
+  <img src="https://vercel.app" alt="sofr314's GitHub stats" />
+</a>
