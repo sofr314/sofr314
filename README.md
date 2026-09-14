@@ -18,8 +18,8 @@ I'm an ABS Research Analyst, and I've been learning to code for 2 years.
 
 <p align="left"> <a href="https://www.github.com/sofr314" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 
-### Badges
+### Stats
 
 <b>My GitHub Stats</b>
 
-![GitHubCard profile card for sofr314](https://githubcard.com/g/dVR6lFosm7sha47u.svg)
+<img alt="my stats" src="https://github-readme-stats.vercel.app./api?username=sofr314"/>
